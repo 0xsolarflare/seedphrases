@@ -2,9 +2,10 @@
 Exploration of BIP39/44.
 
 ## Repeated Words
-Have trouble remembering your seedphrase? Here are all the valid seedphrases that consist of the same word over and over e.g. "bus bus bus bus bus" 12 times. 
+Have trouble remembering your seedphrase? Here are all the valid seedphrases that consist of the same word over and over e.g. ```"bus bus bus bus bus"``` 12 times. 
 
 ### 12 Word Seed Phrases
+The word, the private key, and the public key.
 ```
 action     4a6546a29c9a0d357f4c029dec9ebbf6536fc5d82fa4627859f9b0d3adde64e1 0xd5aeAa8D5D42eE1Ba3f2Fe4EA66FB814FD4665D2
 agent      2fcc403a8451358025097332f599a1b136fe4ad8cf210bd1a8a78b51d21e2f79 0x5Bea47704e275Ae81b75E0831d44a3dE8D2Dee63
